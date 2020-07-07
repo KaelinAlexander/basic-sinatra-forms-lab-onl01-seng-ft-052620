@@ -17,6 +17,4 @@ class App < Sinatra::Base
     erb :team
   end
 
-  get ''
-
 end
